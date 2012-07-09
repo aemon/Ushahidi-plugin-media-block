@@ -67,4 +67,4 @@ class media_reports_block {
 	}
 }
 
-new tedx_reports_block;
+new media_reports_block;
